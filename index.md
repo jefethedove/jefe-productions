@@ -62,7 +62,7 @@
             </ul>
         </div>
 
-        <div class="copy d-none d-sm-block">© Denzel. 2020.</div>
+        <div class="copy d-none d-sm-block">© jefe-productions. 2020.</div>
     </nav>
 
     <nav class="navbar navbar-mobile">
@@ -85,7 +85,7 @@
             <li><a class="nav-link" data-menuanchor="contact" href="#contact">Contact</a></li>
         </ul>
         <div class="navbar-mobile-footer">
-            <p>© Denzel. 2020. All Rights Reserved.</p>
+            <p>© jefe-productions. 2020. All Rights Reserved.</p>
         </div>
     </nav>
     <div id="pagepiling">
@@ -95,7 +95,7 @@
                 <div class="scroll-wrap">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-6 col-xl-5">
+                            <div class="col-lg-6 col-xl-5" style="display:none;">
                                 <div class="mb-2">I'm Product<br> Designer</div>
                                 <h1 class="text-white"><span class="text-primary text-typed a-typed a-typed-about">Hello,</span> my name is Denzel.</h1>
                                 <div class="line"></div>
